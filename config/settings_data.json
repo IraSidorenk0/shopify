@@ -390,5 +390,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".banner__text {color: #000; text-transform: uppercase;}"
+    ]
   }
 }
